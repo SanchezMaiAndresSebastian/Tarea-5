@@ -5,16 +5,16 @@
 **Principales**
 - Seleccionar los conceptos más importantes de lazo para la resolución de ejercicios dentro de un circuito eléctrico.
 - Revisar los conceptos que se integran con los circuitos en serie y en paralelo como es ley de ohm, y leyes de Kirchhoff.
-- Desarrollar el uso de los teoremas como formas de resolucion del problemas de circuitos.
-- Seleccionar conceptos de significados de magnetismo, campo magnetico electromagnetismo Inducción electromganética.
+- Desarrollar el uso de los teoremas como formas de resolución de los problemas de circuitos.
+- Seleccionar conceptos de significados de: Magnetismo, campo magnético, electromagnetismo e Inducción electromagnética.
 
 **Específicos**
 
 - Identificar cuáles son las características de circuito resistivo en serie y en paralelo.
 - Determinar las potencias de un circuito en serie y en paralelo.
-- Dterminar las relaciones que existe entre electricidad y magnetismo.
+- Determinar las relaciones que existe entre electricidad y magnetismo.
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
-- Utilizar los teoremas de superoposición, thevenin, norton y maxima transferencia de energia para la resolución de prblemas de circuitos.
+- Utilizar los teoremas de superposición, Thévenin, Norton y máxima transferencia de energía para la resolución de problemas de circuitos.
 
 ### 2. MARCO TEORICO
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/1.png)
@@ -58,8 +58,8 @@ https://youtu.be/nZnGCbVBAXs
 - Las características principales de un circuito mixto es de que tienen la misma corriente, pero diferentes caídas de tensión.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
-- Deoendiendo de la cantidad de corriente que se le ponga dentro de un campo electromagneticos este empezara a aumentar su campo magnético.
+- Dependiendo de la cantidad de corriente que se le ponga dentro de un campo electromagnéticos este empezara a aumentar su campo magnético.
 ### 6. BIBLIOGRAFÍA
 
-- Dorf, R. C., & Svoboda, J. A. (2010). Introduction to Electric Circuits (8.a ed.). John Wiley & Sons Inc.
-- Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+- Dore, R. C., & Svoboda, J. A. (2010). Introduction to Electric Circuits (8.a ed.). John Wiley & Sons Inc.
+- Floyd, T. L. (2022). Principios De Circuitos Eléctricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
