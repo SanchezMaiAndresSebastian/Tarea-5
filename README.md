@@ -15,16 +15,36 @@
 - Utilizar los teoremas de superoposición, thevenin, norton y maxima transferencia de energia para la resolución de prblemas de circuitos.
 - 
 ### 2. MARCO TEORICO
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/1.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/2.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/5.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/3.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/4.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/6.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/7.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/4.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-01.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-02.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-03.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-04.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-05.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-06.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-07.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-08.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-09.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-10.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-11.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-12.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-13.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-14.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-15.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-16.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-17.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-18.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-19.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-20.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-21.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-22.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-5/blob/main/Fotos/Tarea%205%20-%20Fund.%20de%20Circuitos%202022-23.png)
 
 
 ### 4. VIDEO
