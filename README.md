@@ -7,6 +7,7 @@
 - Revisar los conceptos que se integran con los circuitos en serie y en paralelo como es ley de ohm, y leyes de Kirchhoff.
 - Desarrollar el uso de los teoremas como formas de resolucion del problemas de circuitos.
 - Seleccionar conceptos de significados de magnetismo, campo magnetico electromagnetismo Inducción electromganética.
+
 **Específicos**
 
 - Identificar cuáles son las características de circuito resistivo en serie y en paralelo.
